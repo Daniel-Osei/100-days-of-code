@@ -19,7 +19,7 @@ I will like to improve my web Dev skills. Nice experience at freecodecamp
 
 **Link to work:** This was an interactive example
 
-### Day 2: May 12, 2020
+### Day 2: May 15, 2020
 
 **Today's Progress**: Continue Frontend Web Development Tutorials at Freecodecamp. Completed Basic CSS
 
@@ -47,3 +47,14 @@ I will like to improve my web Dev skills. Nice experience at freecodecamp
 **Thoughts:** Learned a lot yesterday and hoping to add more today.
 
 **Link to work:** This was an interactive example
+
+### Day 3: May 16, 2020
+
+**Today's Progress**: Created a basic happy fathers' page. 
+
+**Topics Covered**: Application of HTML CSS
+    
+
+**Thoughts:** I have a long way to go in journey as a full stack web dev. But practice is the key.
+
+**Link to work:** Find the work [here](www.so87b.csb.app)
