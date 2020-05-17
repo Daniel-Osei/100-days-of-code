@@ -5,6 +5,7 @@
 **Today's Progress**: Started Frontend Web Development Tutorials at Freecodecamp. Completed Basic HTML and HTML5
 
 **Topics Covered**: 
+
     + HTML and HTML5 tags and attributes (self closing tags)
     + HTML5 elements
     + Headings , Comments, Paragraph
@@ -24,6 +25,7 @@ I will like to improve my web Dev skills. Nice experience at freecodecamp
 **Today's Progress**: Continue Frontend Web Development Tutorials at Freecodecamp. Completed Basic CSS
 
 **Topics Covered**: 
+
     + Change text color with style attribute - inline css
     + Change text color css selector in style tags- internal css
     + CSS classes
@@ -57,4 +59,4 @@ I will like to improve my web Dev skills. Nice experience at freecodecamp
 
 **Thoughts:** I have a long way to go in journey as a full stack web dev. But practice is the key.
 
-**Link to work:** Find the work [here](www.so87b.csb.app)
+**Link to work:** Find the work [here](https://www.so87b.csb.app)
