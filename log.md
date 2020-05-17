@@ -59,4 +59,38 @@ I will like to improve my web Dev skills. Nice experience at freecodecamp
 
 **Thoughts:** I have a long way to go in journey as a full stack web dev. But practice is the key.
 
-**Link to work:** Find the work [here](https://www.so87b.csb.app)
+**Link to work:** Find the work [here](https://so87b.csb.app/)
+
+### Day 4: May 17, 2020
+
+**Today's Progress**: Continue Frontend Web Development Tutorials at Freecodecamp. Applied Visual Design
+
+**Topics Covered**:
+
+    + text-align property
+    + width
+    + height
+    + strong, u, em, s, hr
+    + background color
+    + box-shadow, opacity
+    + text- transform, font-size, font-weight, line-height
+    + hover state of anchor
+    + relative position of elements, css offset
+    + absolute positioning
+    + fixed positioning
+    + float left and right
+    + z-index
+    + positioning with margin
+    + complementary colors, tertiary colors
+    + hsl
+    + creating gradients, repeat-linear-gradient
+    + background image
+    + transform : scale; property, scale on hover; skewX
+    + ::before, ::after pseudo-elements
+    + @keyframes and animation, hover effect, fill mode, movements
+    + fading, infiite animation count, animation, bezier curves
+    
+
+**Thoughts:** Wow, CSS is really a great deal. Finishing day 4 and thinking about what I can unleashing onto my first webpage :heart:
+
+**Link to work:** This was an interactive example
