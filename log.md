@@ -94,3 +94,28 @@ I will like to improve my web Dev skills. Nice experience at freecodecamp
 **Thoughts:** Wow, CSS is really a great deal. Finishing day 4 and thinking about what I can unleashing onto my first webpage :heart:
 
 **Link to work:** This was an interactive example
+
+### Day 5: May 18, 2020
+
+**Today's Progress**: Continue Frontend Web Development Tutorials at Freecodecamp. Applied Accessibility
+
+**Topics Covered**:
+    + Alt, alt with empty string
+    + using headings to show heirarchical relationship of content
+    + main tag, sections and divs
+    + header
+    + nav
+    + footer
+    + audio
+    + figure and figcaption
+    + label, fieldset, legend, date picker, datetime
+    + visibility for only screen readers
+    + improve readability with high contrast text
+    + choose colore that convey information
+    + use descriptive link texts, accesskey
+    + tabindex
+    
+
+**Thoughts:** As Developers, our attentions should be more focused on those physically challenged and impaired. Thats when we produce the best of works
+
+**Link to work:** This was an interactive example
