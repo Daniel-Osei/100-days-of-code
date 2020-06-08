@@ -119,3 +119,26 @@ I will like to improve my web Dev skills. Nice experience at freecodecamp
 **Thoughts:** As Developers, our attentions should be more focused on those physically challenged and impaired. Thats when we produce the best of works
 
 **Link to work:** This was an interactive example
+
+### Day 6: June 8, 2020
+
+**Today's Progress**: Continue Frontend Web Development Tutorials at Freecodecamp. CSS Flexbox
+**Topics Covered**:
+    + display: flex;
+    + flex-direction: row;, column
+    + justify-content: center; space-between; flex-end; flex-start ...
+    + align-items: 
+    + flex-wrap:
+    + flex-shrink: 1;
+    + flex-grow: 1;
+    + flex-basis: px; em; %; ...
+    + shortcut -- flex: grow shrink basis;
+    + order: 1;
+    + align-self:
+
+    
+
+**Thoughts:** Diving Deep into the core of Responsive Web Design
+
+**Link to work:** This was an interactive example
+
